@@ -1,0 +1,17 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.1.0",
+    "jade": "*",
+    "less-middleware": "*",
+    "mongomq": "~0.3.4",
+    "sendgrid": "~0.4.6",
+    "mongoose": "~3.8.1",
+    "hbs": "~2.4.0"
+  }
+}
